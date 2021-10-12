@@ -1,0 +1,25 @@
+*, *::before, *::after {
+    box-sizing: inherit;
+  }
+
+
+body{
+    background: rgb(154, 178, 194);
+}
+
+.heading{
+    padding: 100px;
+    
+}
+
+.box{
+    display: block;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid #6782f8;
+    border-radius:  6px;
+
+}
+
+
+
